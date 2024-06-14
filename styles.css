@@ -1,8 +1,7 @@
 body {
   display: flex;
-  flex-direction: column;
-  align-items: center;
   justify-content: center;
+  align-items: center;
   height: 100vh;
   margin: 0;
   background-color: #f0f0f0;
@@ -28,8 +27,4 @@ body {
 
 .food {
   background-color: #f44336;
-}
-
-#game-info {
-  margin-top: 20px;
 }
